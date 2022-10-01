@@ -6,9 +6,9 @@ const kLabelTextStyle = TextStyle(
 );
 
 const kBottonContainerHeight = 80.0;
-const kCardColor = Color(0xFF1D1E33);
-const kActiveCardColor = Color(0xFF2A2B65);
-const kBottonContainerColor = Color(0xFFEB1555);
+const kCardColor = Color.fromARGB(255, 14, 16, 43);
+const kActiveCardColor = Color.fromARGB(255, 19, 21, 63);
+const kBottonContainerColor = Color(0xFF1DB700);
 
 const kNumbersTextStyle = TextStyle(
   fontSize: 50.0,
